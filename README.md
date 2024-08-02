@@ -2,4 +2,4 @@
 
 # support center for the "littleowle" line of applications - free and/or paid - created for Desktop use
 
-## [https://github.com/LittleOwle/plugins-intellij-jetbrains/issues](https://github.com/LittleOwle/apps-desktop/issues)
+## https://github.com/LittleOwle/apps-desktop/issues
